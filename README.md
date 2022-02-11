@@ -6,3 +6,6 @@ Done in time of Unreal Engine Programming bootcamp for c++
 
 https://drive.google.com/file/d/14_xU3cwiOnmaUXUM8B5SZZMxmNtqiS_S/view?usp=sharing // Build
 https://drive.google.com/file/d/1unFawm2Sgj0hOE2SRJmCRL5744CPgrWh/view?usp=sharing // Game 
+
+
+Game is not upload till the end , in need of lft git - some maps exceed memory 
